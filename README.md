@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Valentin Hilko
 ---------
 - 📫 How to reach me 
-  - Telegramm
+  - Telegram
     -  @ValentinHilko
-  - Viber
-    - +375 (29) 332-78-12  
+  - Gmail
+    - valikprogrammer@gmail.com 
