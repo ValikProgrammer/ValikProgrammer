@@ -6,6 +6,8 @@ Passionate about building intelligent systems and exploring the intersection of 
 
 
 ## Recent projects
+- Text Chat
+- Process Browser 
 - IntelliJ IDE Plugin
 - Huffman Archiver
 - Expense Tracker
