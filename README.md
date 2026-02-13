@@ -7,10 +7,10 @@ Passionate about building intelligent systems and exploring the intersection of 
 
 ## Recent projects
 - [Process Browser](https://github.com/ValikProgrammer/ProcessBrowser) 
-- MIT GTL Sound Detector Robot
-- IntelliJ IDE Plugin
+- [MIT GTL Sound Detector Robot](https://github.com/ValikProgrammer/MISTISoundDetectorProject)
+- [IntelliJ IDE Plugin](https://github.com/ValikProgrammer/IntelliJ-IDE-Plugin-JetBrains-Hackathon-2025)
 - Huffman Archiver
-- Expense Tracker
+- [Expense Tracker](https://github.com/ValikProgrammer/Room-expenses-splitter)
 
 
 
