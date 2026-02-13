@@ -6,7 +6,7 @@ Passionate about building intelligent systems and exploring the intersection of 
 
 
 ## Recent projects
-- Process Browser 
+- [Process Browser](https://github.com/ValikProgrammer/ProcessBrowser) 
 - MIT GTL Sound Detector Robot
 - IntelliJ IDE Plugin
 - Huffman Archiver
