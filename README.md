@@ -6,8 +6,9 @@ Passionate about building intelligent systems and exploring the intersection of 
 
 
 ## Recent projects
-- [Process Browser](https://github.com/ValikProgrammer/ProcessBrowser) 
+- [JASS 2026](https://www.jass.school/) - [Smart Eco-City](https://github.com/JASS-2026-Cyprus)
 - [MIT GTL Sound Detector Robot](https://github.com/ValikProgrammer/MISTISoundDetectorProject)
+- [Process Browser](https://github.com/ValikProgrammer/ProcessBrowser) 
 - [IntelliJ IDE Plugin](https://github.com/ValikProgrammer/IntelliJ-IDE-Plugin-JetBrains-Hackathon-2025)
 - Huffman Archiver
 - [Expense Tracker](https://github.com/ValikProgrammer/Room-expenses-splitter)
