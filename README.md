@@ -19,7 +19,7 @@ Passionate about building intelligent systems and exploring the intersection of 
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 ### 🧑‍💻 Languages
 Python (ML, CV, AI), C/C++, JavaScript/TypeScript (Web), Kotlin(CLI/desktop)
 
