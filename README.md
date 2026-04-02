@@ -11,7 +11,7 @@ Passionate about building intelligent systems and exploring the intersection of 
 - [MIT GTL Sound Detector Robot](https://github.com/ValikProgrammer/MISTISoundDetectorProject)
 - [Process Browser](https://github.com/ValikProgrammer/ProcessBrowser) 
 - [IntelliJ IDE Plugin](https://github.com/ValikProgrammer/IntelliJ-IDE-Plugin-JetBrains-Hackathon-2025)
-- Huffman Archiver
+- [Messenger in C](https://github.com/ValikProgrammer/TextChat)
 - [Expense Tracker](https://github.com/ValikProgrammer/Room-expenses-splitter)
 
 
